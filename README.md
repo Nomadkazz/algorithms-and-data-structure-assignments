@@ -1,4 +1,4 @@
-# algorithms-and-data-structure-assignments
+# Algorithms and Data structures
 The repository consists of my implementation of execrcises assigned in Algorithms and Data Structure class
  - Binary searach
  - Radix/Counting sort
